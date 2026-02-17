@@ -4,9 +4,9 @@
 
 # Run and deploy rentory app
 
-This contains everything you need to run your app locally.
+This contains everything to run the app locally.
 
-View your app in AI Studio: https://rentory-790009607172.us-west1.run.app
+View app in AI Studio: https://rentory-790009607172.us-west1.run.app
 
 ## Run Locally
 
