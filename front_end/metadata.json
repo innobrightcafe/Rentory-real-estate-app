@@ -1,0 +1,8 @@
+{
+  "name": "Rentory",
+  "description": "A direct-to-consumer real estate platform using AI to match tenants with landlords, featuring image analysis, preference matching, and secure digital leasing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
